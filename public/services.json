@@ -1,0 +1,90 @@
+[
+	{
+	  "id": 1,
+	  "name": "Car Servicing ",
+	  "price": 2000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/wSnjQJT/car-servicing.png"
+	},
+	{
+	  "id": 2,
+	  "name": "car-service-worker",
+	  "price": 3000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/2j27k35/car-service-worker.png"
+	},
+	{
+	  "id": 3,
+	  "name": "machanic",
+	  "price": 1000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/b56BvYF/machanic.png"
+	},
+	{
+	  "id": 4,
+	  "name": "Red Car",
+	  "price": 5000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/C2Tsf4n/red-car.png"
+	},
+	{
+	  "id": 5,
+	  "name": "Repair Services",
+	  "price": 6000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/FYmyGJL/repair-service.png"
+	},
+	{
+	  "id": 6,
+	  "name": "Scrue ",
+	  "price": 3000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/nLgkh6x/scrue.png"
+	},
+
+	{
+		"id": 6,
+		"name": "Scrue ",
+		"price": 3000,
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+		"img": "https://i.ibb.co/nLgkh6x/scrue.png"
+	},
+	
+	
+	{
+	  "id": 8,
+	  "name": "Tire Repair",
+	  "price": 22000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/pngWLrX/tire-repair.png"
+	},
+	{
+	  "id": 9,
+	  "name": "White jeep",
+	  "price": 23000,
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/LrhyQPk/white-jeep.png"
+	},
+	{
+		"id": 7,
+		"name": "Senior-machanic",
+		"price": 7000,
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+		"img": "https://i.ibb.co/SBbjybF/senior-machanic.png"
+	  },
+	{
+	  "id": 10,
+	  "name": "Garrege owner",
+	  
+	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+	  "img": "https://i.ibb.co/yd0XWsX/joy12.png"
+	},
+	{
+		"id": 7,
+		"name": "Senior-machanic",
+		"price": 7000,
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
+		"img": "https://i.ibb.co/SBbjybF/senior-machanic.png"
+	  }
+  ]
+
