@@ -11,7 +11,7 @@ const Bannner = () => {
 			<Carousel>
   				<Carousel.Item>
     				<img
-      					className="d-block w-100"
+      					className="d-block w-100 vh-100"
       					src={banner1}
       					alt="First slide"
     				/>
@@ -23,7 +23,7 @@ const Bannner = () => {
 
   				<Carousel.Item>
 					<img
-					className="d-block w-100"
+					className="d-block w-100 vh-100"
 					src={banner2}
 					alt="Second slide"
 					/>
@@ -36,7 +36,7 @@ const Bannner = () => {
 
   				<Carousel.Item>
 					<img
-					className="d-block w-100"
+					className="d-block w-100 vh-100"
 					src={banner3}
 					alt="Third slide"
 					/>
@@ -49,7 +49,7 @@ const Bannner = () => {
 
 				<Carousel.Item>
 					<img
-					className="d-block w-100"
+					className="d-block w-100 vh-100"
 					src={banner4}
 					alt="Fourth slide"
 					/>
