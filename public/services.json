@@ -43,11 +43,11 @@
 	},
 
 	{
-		"id": 6,
-		"name": "Scrue ",
+		"id": 7,
+		"name": "Car-washing",
 		"price": 3000,
 		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
-		"img": "https://i.ibb.co/nLgkh6x/scrue.png"
+		"img": " https://i.ibb.co/94sz67C/car-washing.png"
 	},
 	
 	
@@ -60,31 +60,33 @@
 	},
 	{
 	  "id": 9,
-	  "name": "White jeep",
+	  "name": "Car-polishing",
 	  "price": 23000,
 	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
-	  "img": "https://i.ibb.co/LrhyQPk/white-jeep.png"
+	  "img": "https://i.ibb.co/HDcPRvt/polishing-car.png"
 	},
 	{
-		"id": 7,
+		"id": 10,
 		"name": "Senior-machanic",
 		"price": 7000,
 		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
 		"img": "https://i.ibb.co/SBbjybF/senior-machanic.png"
 	  },
 	{
-	  "id": 10,
+	  "id": 11,
 	  "name": "Garrege owner",
 	  
 	  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
 	  "img": "https://i.ibb.co/yd0XWsX/joy12.png"
 	},
 	{
-		"id": 7,
-		"name": "Senior-machanic",
+		"id": 12,
+		"name": "Machanic-worker",
 		"price": 7000,
 		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s ",
-		"img": "https://i.ibb.co/SBbjybF/senior-machanic.png"
+		"img": "https://i.ibb.co/dKQG6M0/worker-3.png"
 	  }
   ]
-
+ 
+  
+ 
